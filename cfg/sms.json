@@ -1,0 +1,7 @@
+{
+	"apiKey": "dd90ecb7a91be009c1c43464faa3ae5c",
+	"textTemplate": "您的验证码是#code#, 请在#time#秒内输入",
+	"hostName": "yunpian.com",
+	"page": "/v1/sms/send.json",
+	"port": 80
+}
